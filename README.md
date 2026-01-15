@@ -22,6 +22,7 @@ So I built **MarketDataGuard** — a lightweight validation engine that checks s
 ## 🚀 What MarketDataGuard Does
 
 This tool runs systematic checks across all CSV files and automatically flags violations such as:
+
 ✔ Missing or null values  
 ✔ Negative prices or volume  
 ✔ Prices breaking financial rules  
@@ -115,8 +116,4 @@ Data Science student | Data Quality believer | Doing QA my way
 
 ---
 
-This version is:
-💙 Human  
-🧠 Smart  
-🎯 Clear purpose  
-💼 Recruiter-ready
+
